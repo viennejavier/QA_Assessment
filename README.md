@@ -1,7 +1,8 @@
 # QA Assessment – Web & API Testing
 
 ## Project Overview
-This assessment contains manual and automated test cases for both **web application testing** (SauceDemo site) and **API testing** (`https://jsonplaceholder.typicode.com`).  
+This assessment contains manual and automated test cases for both **web application testing** (SauceDemo site) and **API testing** (`https://jsonplaceholder.typicode.com`).
+
 It also includes **bug reports** for issues found during testing and **automation scripts** using Playwright.
 
 ---
